@@ -1,2 +1,1 @@
-# pdd
-Pathogen Detection Database 
+# Pathogen Detection Database 
